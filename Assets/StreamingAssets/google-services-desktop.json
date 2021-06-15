@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65442382735",
+    "firebase_url": "https://farmvillarestapi-default-rtdb.firebaseio.com",
+    "project_id": "farmvillarestapi",
+    "storage_bucket": "farmvillarestapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65442382735:android:c1ef7f135a3ae2fb7081fa",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseRestApi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65442382735-cmeke314bqhahvcas8oovrkm3j6p20al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZ5Sc5dFV1hO1aEYezecaCIklslXyuNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65442382735-cmeke314bqhahvcas8oovrkm3j6p20al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
